@@ -27,3 +27,5 @@
  ![Snake animation](https://github.com/BrenoSanglar/BrenoSanglar/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/BrenoSanglar/count.svg" /></p>
